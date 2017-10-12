@@ -8,6 +8,7 @@ Instructions:
 4. Type in code to say "Hello, world!"
 
 In the BASH shell:
+
 5. git add test.py
 6. git commit
 7. git push
